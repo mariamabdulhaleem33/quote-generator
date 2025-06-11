@@ -12,7 +12,7 @@ A simple web app that fetches random quotes from an external API, lets users sav
 -  Scroll through long favorites list
 -  Desktop-focused interface (not responsive)
 
----
+
 
 ##  Technologies Used
 
@@ -21,12 +21,12 @@ A simple web app that fetches random quotes from an external API, lets users sav
 - [SpeechSynthesis API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) for voice support
 - [API Ninjas](https://api-ninjas.com/api/quotes) for quote data
 
----
+
 
 ## Local Storage
 Your saved quotes are stored in the browser’s localStorage. No backend or database is used.
 
----
+
 
 ##⚠️ Notes
 - You must be connected to the internet to fetch quotes
@@ -35,7 +35,7 @@ Your saved quotes are stored in the browser’s localStorage. No backend or data
 
 - This layout is designed for desktop viewing only. It may not display correctly on mobile or small screens
 
----
+
 
 ## Future Enhancements
 -Add category-based filtering
@@ -44,7 +44,7 @@ Your saved quotes are stored in the browser’s localStorage. No backend or data
 
 -Add mobile support and responsive layout
 
----
+
 
 ##  Thank You for Using the App
 
